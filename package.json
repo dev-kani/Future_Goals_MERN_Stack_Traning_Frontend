@@ -2,7 +2,6 @@
   "name": "mern-stack-project",
   "version": "0.1.0",
   "private": true,
-  "proxy": "https://dev-kani-future-goals-app.onrender.com",
   "dependencies": {
     "@reduxjs/toolkit": "^1.7.2",
     "@testing-library/jest-dom": "^4.2.4",
